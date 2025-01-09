@@ -1,5 +1,5 @@
 /* echo.c - echo user input */
-/* TIM YU */
+/* Tim Tian Yu */
 /* Last updated: 1/9/2024 */
 
 #include <stdio.h>
